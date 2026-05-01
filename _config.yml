@@ -38,7 +38,7 @@ repository               : "zabin24/zabin-portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_8294.JPG"
   name             : "Zabin Tasmin"
   pronouns         : # example: "she/her"  
   bio              : "CSE Student | Flutter Developer"
